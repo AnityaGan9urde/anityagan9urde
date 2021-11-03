@@ -4,8 +4,8 @@
 ### - 🔭 I’m currently working on building some end-to-end projects to gain practical hands-on experience in the Data field.
 ### - 🌱 I’m currently learning Advanced Python and Deep Learning concepts such as NLP.
 ### - ⚡ I'm open to work for a Data Analyst or Data Scientist Intern/Junior positions.
-### - Check out my portfolio on my website: [![Visit](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) 
-### - Check out some of my repositories below 👇
+### - Check out my portfolio on my website: [![Visit website.](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) 
+### - Check out code for some of my projects below 👇
 
 <!--
 **AnityaGan9urde/anityagan9urde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
