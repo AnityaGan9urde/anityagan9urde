@@ -5,8 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
 ### - 🔭 I’m currently working on building some end-to-end projects to gain practical hands-on experience in the Data field.
 ### - 🌱 I’m currently learning Advanced Python and Deep Learning concepts such as NLP.
-### - ⚡ I'm open to work for a Data Analyst or Data Scientist Intern/Junior positions.
-### - Check out my portfolio on my website: [![Visit website.](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) <br><br>
+### - ⚡ I'm open to work for a Data Scientist Intern/Junior positions **at* a Startup.
+### - Check out my portfolio website: [![Visit website.](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) <br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
 ### - ✉️ Find me on:
 <p align="center">
