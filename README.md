@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## I'm Anitya Gangurde, an Aspiring Data Scientist. 
+## I'm Anitya Gangurde. 
 #### Although I am a Bachelor in Mechanical Engineering, I've always been interested in coding and artificial intelligence. Hence, after graduating I started studying Python and Data Science through books, online courses and through everywhere else. Until now, I've successfully completed several end-to-end Machine Learning Projects. I have interests in working on research level deep learning problems and writing.
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
