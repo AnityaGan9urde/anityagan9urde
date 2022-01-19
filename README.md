@@ -2,7 +2,7 @@
 
 ## I'm Anitya Gangurde. 
 #### Although I am a Bachelor in Mechanical Engineering, I've always been interested in coding and artificial intelligence. Hence, after graduating I started studying Python and Data Science through books, online courses and through everywhere else. Until now, I've successfully completed several end-to-end Machine Learning Projects. I have interests in working on research level deep learning problems and writing.
-<!--
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
 ### - 🔭 I’m currently working on building some end-to-end projects to gain practical hands-on experience in the Data field.
@@ -19,7 +19,7 @@
  <a href="https://anityagan9urde.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/nolan/64/medium-new.png" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:anityagangurde01@gmail.com"> <img src="https://img.icons8.com/nolan/64/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:40px"></a>
 </p> 
--->
+
 ### - Check out some of my pinned projects below 👇
 
 <!--
