@@ -9,7 +9,7 @@
 ### - 🌱 I’m currently learning Advanced Python and Deep Learning concepts such as NLP.
 ### - ⚡ I'm open to work for a Data Scientist Intern/Junior positions **at* a Startup.
 ### - Check out my live portfolio website: [![Visit website.](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) 
-### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a>
+<!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
 ### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
 ### - Find me at:
 <p>
