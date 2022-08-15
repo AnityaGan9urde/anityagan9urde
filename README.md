@@ -5,9 +5,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
-### - 🔭 I’m currently working on building some end-to-end projects to gain practical hands-on experience in the Data field.
-### - 🌱 I’m currently learning Advanced Python and Deep Learning concepts such as NLP.
-### - ⚡ I'm open to work for a Data Scientist Intern/Junior positions **at* a Startup.
+### - 🔭 I’m currently working on building an optimization library with an UI.
+### - 🌱 I’m currently learning Advanced Python and Kaggling.
 ### - Check out my live portfolio website: [![Visit website.](icons8-end-button-48.png "Visit")](https://anityagan9urde.github.io) 
 <!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
 ### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
