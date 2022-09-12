@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
 ### - 🔭 I’m currently working on building a deep learning AutoML library with a simple UI.
 ### - 🌱 I’m currently working as a Technical Product Person at a US start-up.
-### - Check out my live portfolio website: [![Visit website.](icons8-end-button-48.png)](https://anityagan9urde.github.io) 
+### - Check out my live portfolio website: ![Visit website.](https://anityagan9urde.github.io) 
 <!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
 ### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
 ### - Find me at:
