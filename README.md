@@ -1,13 +1,12 @@
 ### Hello there 👋
 
 ## I'm Anitya Gangurde. 
-#### Although I am a Bachelor in Mechanical Engineering, I've always been interested in coding and artificial intelligence. Hence, after graduating I started studying Python and Data Science through books, online courses and through everywhere else. Until now, I've successfully completed several end-to-end Machine Learning Projects. I have interests in working on research level deep learning problems and writing.
+#### Although I am a Bachelor in Mechanical Engineering, I've always been interested in computers, technology and startups. Hence, after graduating I shifter gears and started looking for Technology startups in AI/ML. Currently, I'm working as a product person in an US based early stage startup, ideating products, developing prototypes, doing research and plus learning all sorts of stuff such as social media marketing, coding, writing, web development, Figma, etc.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
-### - 🔭 I’m currently working on building a deep learning AutoML library with a simple UI.
-### - 🌱 I’m currently working as a Technical Product Person at a US start-up.
-### - Check out my live portfolio website: ![Visit website.](https://anityagan9urde.github.io) 
+### - 🌱 I’m currently working as a Technical Product Person at a start-up.
+### - Check out my live portfolio website ![here](https://anityagan9urde.github.io).
 <!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
 ### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
 ### - Find me at:
