@@ -6,7 +6,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
 ### - 🌱 I’m currently working as a Technical Product Person at a start-up.
-### - Check out my live portfolio website ![here](https://anityagan9urde.github.io).
+### - Check out my live portfolio website [here](https://anityagan9urde.github.io).
 <!-- ### <a href="https://github.com/AnityaGan9urde/anityagan9urde/blob/main/Resume.pdf" download>Download Resume</a> -->
 ### - Languages used on GitHub:<br><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnityaGan9urde&theme=tokyonight&hide=scss)
 ### - Find me at:
