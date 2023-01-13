@@ -18,7 +18,7 @@
  <a href="mailto:anityagangurde01@gmail.com"> <img src="https://img.icons8.com/nolan/64/gmail.png" alt="Email" height="40" style="vertical-align:top; margin:40px"></a>
 </p> 
 
-### - Check out some of my pinned projects below 👇
+### - I had quite some interest in Data Science (still have it). So check out some of my pinned projects below 👇
 
 <!--
 **AnityaGan9urde/anityagan9urde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
