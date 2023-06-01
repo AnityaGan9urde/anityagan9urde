@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## I'm Anitya Gangurde. 
-#### Although I am a Bachelor in Mechanical Engineering, I've always been interested in computers, technology and startups. Hence, after graduating I shifter gears and started looking for Technology startups in AI/ML. Currently, I'm working as a product person in an US based early stage startup, ideating products, developing prototypes, doing research and plus learning all sorts of stuff such as social media marketing, coding, writing, web development, Figma, etc.
+#### Although I am a Bachelor in Mechanical Engineering, I've always been interested in computers, technology and startups, also in getting rich. Hence, after graduating I shifted gears and started looking for Technology startups in AI/ML as you know AI being the future and all. Currently, I'm working as a product management person in an AI startup handling multiple responsibilities such as product research, marketing, product development, website dev and management, Social media, etc. 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
