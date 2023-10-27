@@ -1,11 +1,11 @@
 ### Hello there 👋
 
 ## I'm Anitya Gangurde. 
-#### Although I am a Bachelor in Mechanical Engineering, I've always been interested in computers, technology and startups, also in getting rich. Hence, after graduating I shifted gears and started looking for Technology startups in AI/ML as you know AI being the future and all. Currently, I'm working as a product management person in an AI startup handling multiple responsibilities such as product research, marketing, product development, website dev and management, Social media, etc. 
+#### Help me make billions.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=anityagan9urde.anityagan9urde)<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AnityaGan9urde&show_icons=true&theme=tokyonight) <br>
-### - 🌱 I’m currently working as a Technical Product Person at a start-up.
+### - 🌱 I’m currently working as a Technical Product Owner with multiple other hats at a start-up.
 ### - Check out my live portfolio website [here](https://anityagan9urde.github.io).
 ### - Check out my Kaggle [here](https://www.kaggle.com/anityagangurde).
 
